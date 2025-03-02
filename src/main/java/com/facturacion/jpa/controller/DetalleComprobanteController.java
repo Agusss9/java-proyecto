@@ -1,7 +1,7 @@
-package com.facturacion.app.controller;
+package com.facturacion.jpa.controller;
 
-import com.facturacion.app.entity.DetalleComprobante;
-import com.facturacion.app.service.DetalleComprobanteService;
+import com.facturacion.jpa.entity.DetalleComprobante;
+import com.facturacion.jpa.service.DetalleComprobanteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

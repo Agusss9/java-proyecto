@@ -1,6 +1,6 @@
-package com.facturacion.app.repository;
+package com.facturacion.jpa.repository;
 
-import com.facturacion.app.entity.Articulo;
+import com.facturacion.jpa.entity.Articulo;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

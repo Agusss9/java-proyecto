@@ -1,7 +1,7 @@
-package com.facturacion.app.controller;
+package com.facturacion.jpa.controller;
 
-import com.facturacion.app.entity.Articulo;
-import com.facturacion.app.service.ArticuloService;
+import com.facturacion.jpa.entity.Articulo;
+import com.facturacion.jpa.service.ArticuloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

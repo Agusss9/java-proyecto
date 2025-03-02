@@ -1,7 +1,7 @@
-package com.facturacion.app.service;
+package com.facturacion.jpa.service;
 
-import com.facturacion.app.entity.Comprobante;
-import com.facturacion.app.repository.ComprobanteRepository;
+import com.facturacion.jpa.entity.Comprobante;
+import com.facturacion.jpa.repository.ComprobanteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

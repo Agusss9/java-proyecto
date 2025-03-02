@@ -1,7 +1,7 @@
-package com.facturacion.app.service;
+package com.facturacion.jpa.service;
 
-import com.facturacion.app.entity.Articulo;
-import com.facturacion.app.repository.ArticuloRepository;
+import com.facturacion.jpa.entity.Articulo;
+import com.facturacion.jpa.repository.ArticuloRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
